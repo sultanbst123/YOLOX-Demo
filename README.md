@@ -16,6 +16,11 @@ untuk lebih lanjut:
  <img src="https://github.com/sultanbst123/YOLOX-Demo/blob/main/download.png"><i> Output Image </i>
 </p>
 
+## Referensi 
+
+- [keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models) 
+- [YOLOX Official](https://github.com/Megvii-BaseDetection/YOLOX) 
+
 ## Citation
 
 ```latex
@@ -26,5 +31,3 @@ untuk lebih lanjut:
   year={2021}
 }
 ```
-## Referensi 
-
