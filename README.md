@@ -12,7 +12,7 @@ untuk lebih lanjut:
  <img src="https://github.com/sultanbst123/EfficientNetV2-with-TPU/blob/main/images.png"><i> EfficientNet </i>
 </p>
 
-## Cite YOLOX
+## Citation
 
 ```latex
  @article{yolox2021,
@@ -22,3 +22,5 @@ untuk lebih lanjut:
   year={2021}
 }
 ```
+## Referensi 
+
