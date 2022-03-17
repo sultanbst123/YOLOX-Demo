@@ -9,7 +9,11 @@ untuk lebih lanjut:
 ## Contoh
 
 <p align="center">
- <img src="https://github.com/sultanbst123/EfficientNetV2-with-TPU/blob/main/images.png"><i> EfficientNet </i>
+ <img src="https://github.com/sultanbst123/YOLOX-Demo/blob/main/images_1.jpeg"><i> Input Image </i>
+</p>
+
+<p align="center">
+ <img src="https://github.com/sultanbst123/YOLOX-Demo/blob/main/download.png"><i> Output Image </i>
 </p>
 
 ## Citation
