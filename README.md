@@ -4,7 +4,7 @@ YOLOX adalah versi dari YOLO, dengan desain yang lebih sederhana tetapi kinerja 
 untuk lebih lanjut: 
 
 - Paper: [YOLOX: Exceeding YOLO Series in 2021](https://arxiv.org/abs/2107.08430) 
-- Demo: [Hugging Space YOLOX](huggingface.co/spaces/Sultannn/YOLOX-Demo) 
+- Demo: [Hugging Space YOLOX](https://huggingface.co/spaces/Sultannn/YOLOX-Demo) 
 
 ## Contoh
 
