@@ -4,7 +4,7 @@ YOLOX adalah versi dari YOLO, dengan desain yang lebih sederhana tetapi kinerja 
 untuk lebih lanjut: 
 
 - Paper: [YOLOX: Exceeding YOLO Series in 2021](https://arxiv.org/abs/2107.08430) 
-- Demo: [Hugging Space YOLOX](https://huggingface.co/spaces/Sultannn/YOLOX-Demo) 
+- Demo: [Hugging Space YOLOkesalahan an huggingface.co/spaces/Sultannn/YOLOX-Demo) 
 
 ## Contoh
 
@@ -20,6 +20,10 @@ untuk lebih lanjut:
 
 - [keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models) 
 - [YOLOX Official](https://github.com/Megvii-BaseDetection/YOLOX) 
+
+## Note
+
+Laporkan jika ada kesalahan 🆗
 
 ## Citation
 
